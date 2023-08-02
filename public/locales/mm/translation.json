@@ -1,0 +1,33 @@
+{
+  "language": "En",
+  "app_title": "CCKLOS Website",
+  "nav": {
+    "home": "ပင်မ",
+    "blog": "ဘလော့",
+    "login": "ဝင်မည်",
+    "register": "အသစ်ထည့်သွင်း",
+    "profile": "အကောင့်",
+    "logout": "ထွက်မည်",
+    "community-voice": "Community Voice",
+    "resources": "Resources",
+    "get-involved": "Get Involved"
+  },
+  "welcome": {
+    "title": "သမိုင်းဝင်ယဉ်ကျေးမှုအမွေအနှစ်များ (ဆောင်းပါး၊ သုတစကားပြေ)",
+    "description": "lesson 2 ပန်းချီဦးဘဉာဏ် (အတ္ထုပ္ပတ္တိ၊ သုတရသစကားပြေ)၊ စာမျက်နှာ(၉)"
+  },
+  "home": {
+    "ccklos": "CCKL:OS - Complex Conservation Kachin Landscape: Open Society"
+  },
+  "aboutus": {
+    "ourmission": "Our Mission",
+    "ourvision": "Our Vision",
+    "partners": "Partners",
+    "sponsors": "Sponsors"
+  },
+  "ourwork": {
+    "background": "Background",
+    "ourapproach": "Our Approach",
+    "projectsites": "Project Sites"
+  }
+}

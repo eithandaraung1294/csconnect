@@ -1,0 +1,34 @@
+{
+  "language": "En",
+  "app_title": "CCKLOS Website",
+  "nav": {
+    "home": "home",
+    "blog": "blog",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "logout": "Logout",
+    "community-voice": "Community Voice",
+    "resources": "Resources",
+    "get-involved": "Get Involved"
+  },
+  
+  "welcome": {
+    "title": "Complex Conservation In Kachin Landscape Open Society",
+    "description": "This is a simple example of a Landing Page you can build using Material Tailwind. It features multiple components based on the Tailwind CSS and Material Design by Google."
+  },
+  "home": {
+    "ccklos": "CCKL:OS - Complex Conservation Kachin Landscape: Open Society"
+  },
+  "aboutus": {
+    "ourmission": "Our Mission",
+    "ourvision": "Our Vision",
+    "partners": "Partners",
+    "sponsors": "Sponsors"
+  },
+  "ourwork": {
+    "background": "Background",
+    "ourapproach": "Our Approach",
+    "projectsites": "Project Sites"
+  }
+}
